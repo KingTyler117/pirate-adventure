@@ -154,7 +154,8 @@ function makeCards() {
 
   new Cards('cubaShortcut', 'Take the shortcut through the pass.', 0, -50, 'pirateSpirit', 'money', 'east', 'west', 'Your ship takes damage and you must stop to repair it using a lot of yer fairly stolen booty! You go back and go around the island instead. It took awhile but you safely made it past the island. What direction to Cuba again?');
 
-  new Cards('long-way', 'Take the long way around the island', 50, 0, 'intelligence', 'rum', 'east', 'west');
+  new Cards('long-way', 'Take the long way around the island', 50, 0, 'intelligence', 'rum', 'east', 'west', 'It took a while but you safely made it past the island. What direction to Cuba again?');
+
   new Cards('west', 'Go West!', 25, 0, 'pirateSpirit', 'rum', 'fight', 'sneak', 'It took a while but you safely made it past the island and used the extra time to get some more rum in your system. You feel great! Hic… what direction to Cuba again?');
 
   // GAME OVER
